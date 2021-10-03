@@ -1,7 +1,8 @@
-package qa.guru.configs;
+package qa.guru;
 
 import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.Test;
+import qa.guru.configs.ApiTestConfig;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
